@@ -13,7 +13,7 @@ rspec
 ## Run script
 ```
 cd lib/logs
-ruby parser.rb ../../data/webserver.log
+ruby parser.rb ../data/webserver.log
 
 
 Example output:
